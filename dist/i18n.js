@@ -9,55 +9,55 @@
 
   /* 英文 -> 中文 字典（覆盖所有可见文案） */
   var ZH = {
-    // 群系名
-    "Prisoners Quarters": "囚徒牢房",
-    "Dilapidated Arboretum": "破败植物园",
-    "Promenade of the Condemned": "罪人林荫道",
-    "Toxic Sewers": "有毒下水道",
-    "Castle Outskirts": "城堡外围",
+    // 群系名（采用游戏官方简体中文译名）
+    "Prisoners Quarters": "被囚者的牢房",
+    "Dilapidated Arboretum": "荒废植物园",
+    "Promenade of the Condemned": "有罪者的大道",
+    "Toxic Sewers": "猛毒下水道",
+    "Castle Outskirts": "城堡边陲",
     "Prison Depths": "监狱深处",
     "Corrupted Prison": "腐化牢房",
-    "Morass of the Banished": "放逐者沼泽",
+    "Morass of the Banished": "被弃者沼泽",
     "Ossuary": "藏骨堂",
-    "Ancient Sewers": "古代下水道",
-    "Ramparts": "城墙壁垒",
+    "Ancient Sewers": "旧下水道",
+    "Ramparts": "壁垒",
     "Bank": "银行",
-    "Draculas Castle": "德古拉城堡",
+    "Draculas Castle": "恶魔城",
     "Nest": "巢穴",
-    "Insufferable Crypt": "苦痛地穴",
+    "Insufferable Crypt": "作呕地窖",
     "Black Bridge": "黑色大桥",
-    "Defiled Necropolis": "亵渎墓地",
-    "Graveyard": "遗忘墓地",
-    "Slumbering Sanctuary": "沉睡圣所",
-    "Stilt Village": "架高村落",
-    "Fractured Shrines": "破碎神殿",
-    "Cavern": "巨洞",
-    "Forgotten Sepulcher": "遗忘陵寝",
-    "Clock Tower": "时钟塔",
-    "Undying Shores": "不朽海岸",
-    "Guardians Haven": "守护者港湾",
+    "Defiled Necropolis": "被污染的大墓地",
+    "Graveyard": "墓地",
+    "Slumbering Sanctuary": "沉睡的庇护所",
+    "Stilt Village": "雾萦港湾",
+    "Fractured Shrines": "崩坏神庙",
+    "Cavern": "山洞",
+    "Forgotten Sepulcher": "被遗忘的陵墓",
+    "Clock Tower": "钟楼",
+    "Undying Shores": "不死海滩",
+    "Guardians Haven": "守护者的居所",
     "Clock Room": "时钟室",
-    "Mausoleum": "陵墓",
-    "Infested Shipwreck": "腐坏沉船",
+    "Mausoleum": "阴森墓园",
+    "Infested Shipwreck": "感染船骸",
     "Derelict Distillery": "废弃酿酒厂",
-    "High Peak Castle": "峰巅城堡",
+    "High Peak Castle": "山巅城堡",
     "Lighthouse": "灯塔",
     "Throne Room": "王座之间",
-    "The Crown": "王冠",
-    "Astrolab": "星盘台",
-    "Masters Keep": "大师据点",
-    "Observatory": "观象台",
+    "The Crown": "塔顶",
+    "Astrolab": "观星实验所",
+    "Masters Keep": "城主的据点",
+    "Observatory": "观星台",
 
-    // 符文 / 道具名
+    // 符文 / 道具名（官方译名）
     "Explorers Rune": "探险家符文",
-    "Ram Rune": "公羊符文",
+    "Ram Rune": "牧羊符文",
     "Spider Rune": "蜘蛛符文",
     "Teleportation Rune": "传送符文",
     "Vine Rune": "藤蔓符文",
-    "Homunculus Rune": "傀儡符文",
+    "Homunculus Rune": "人造人符文",
     "Crown Key": "王冠钥匙",
-    "Cultist Outfit": "邪教徒装束",
-    "Cavern Key": "巨洞钥匙",
+    "Cultist Outfit": "邪教徒皮肤",
+    "Cavern Key": "山洞钥匙",
 
     // DLC 名
     "Bad Seed": "坏种",
@@ -114,7 +114,7 @@
     "Routes locked until connected biomes boss is defeated":
       "路径已锁定：需击败相连群系的 Boss",
     "Routes locked until the Cavern Key is discovered":
-      "路径已锁定：需先找到「巨洞钥匙」"
+      "路径已锁定：需先找到「山洞钥匙」"
   };
 
   // 反向表：中文 -> 英文（用于切回英文）
