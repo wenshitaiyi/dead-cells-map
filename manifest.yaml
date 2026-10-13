@@ -1,0 +1,9 @@
+name: "dead_cells_map"
+title: "死亡细胞交互地图"
+version: "0.1.0"
+description: "Dead Cells 中英双语交互地图本地镜像，含生物群系流程与 DLC 筛选"
+runtime:
+  python: "3.12.0"
+dependencies:
+  services: []
+  python: []
